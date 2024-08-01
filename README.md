@@ -16,4 +16,4 @@ The script provides loose coupling approach to sending mail.It includes a functi
 - **InDependency.cs**:Here loose coupling applied,ideal code
 ## Author
 
-- Rustem Cabrayilov- https://github.com/RustemCabrayilov
+- Rustem Cabrayilov - https://github.com/RustemCabrayilov
