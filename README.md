@@ -2,6 +2,13 @@
 
 The script provides loose coupling approach to sending mail.It includes a functionality like send mail.It utilizes the concept of loose coupling,inheritance, polymorphism
 
+## Table of Contents
+
+- [Features](#features)
+- [Code Structure](#code-structure)
+- [How to use it](#how-to-use-it)
+- [Author](#author)
+  
 ## Features
 
 - **Send Email**: Allows users to send email through mail services(Gmail,Hotmail...etc)
