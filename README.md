@@ -13,7 +13,6 @@ The script provides loose coupling approach to sending mail.It includes a functi
 
 - **Send Email**: Allows users to send email through mail services(Gmail,Hotmail...etc)
 - **Polymorphism**: Demonstrates polymorphic behavior by using different mail services for sending users text.
-- **Inheritance**: Demonstrates hiearchy approach by implementing interface
 - **Loose Coupling**: Utilizes loosed relationships between objects not to depend on just one mail service but all services
 
 ## How to use it
@@ -21,7 +20,7 @@ The script provides loose coupling approach to sending mail.It includes a functi
 1. **Compile and Run**: Compile the script and execute the compiled program to interact with the Loose coupling project
 2. **Follow Console**: Follow the screen to see your used mail services
 3. **Provide Information**: Provide the required information such as send to whom,what text to send
-4. **Receive Notifications**: Upon completion of each operation, the user will receive which a mail service used
+4. **Receive Notifications**: Upon completion of each operation, the user will receive message by  a mail service 
 
  ## Code Structure
  
